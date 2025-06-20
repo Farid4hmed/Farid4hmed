@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farid4hmed&label=Profile%20views&color=0e75b6&style=flat" alt="farid4hmed" /> </p>
 
-- 🔭 I’m currently working at [Solarad.ai](solarad.ai)
+- 🔭 I’m currently working at Onelab Ventures
 
 - 🌱 I’m currently learning **System Design**
 
